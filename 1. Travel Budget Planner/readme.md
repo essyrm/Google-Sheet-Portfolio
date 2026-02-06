@@ -14,3 +14,5 @@ Google Spreadsheet
 - Logical function (IF, IFS, SEQUENCE, IFERROR, SORT, FILTER)
 - Date display (TODAY, DAYS, WEEKDAY)
 - Visualization (chart, drop down, tick box, SPARKLINE)
+
+## [File Spreadsheet](https://docs.google.com/spreadsheets/d/1nxP4MR2tr-ZVsQaSV4SYbcT-ngsdrPfRMu3qlHpTZWM/edit?usp=sharing)
