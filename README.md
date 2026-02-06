@@ -1,4 +1,4 @@
-# 📊 Spreadsheet Portfolio
+# 📊 Google Sheet Portfolio
 
 Through this repository, I will save and display my personal Google Spreadsheet projects, showcasing as much as I can about my skills in this tool. I really love Spreadsheet since it is similar to Excel. Apart from that, it's easier to access by everyone and doesn't require any installation in PC.
 
